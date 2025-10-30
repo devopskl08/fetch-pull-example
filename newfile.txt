@@ -1,2 +1,4 @@
 Added new file
 here
+this above two lines are present iam adding new line from remote repository
+in my local i need to do pull
